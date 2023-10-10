@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://64.media.tumblr.com/3c7a64ba248f8af65e3f97aad2eeccb4/tumblr_o6diqboHMY1r8sc3ro2_500.gifv);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    cursor: 'url("https://scontent.ftun2-2.fna.fbcdn.net/v/t1.15752-9/385464296_863143718770256_6765045009471494108_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=1M872h4CPLkAX_sr6Wz&_nc_ht=scontent.ftun2-2.fna&oh=03_AdQp1QUQhApG5v9xTS1E33m4NcHMRaAlCMnQTdEBfH3ppA&oe=6544F928"),auto'
+
+    
+}
+
+#startingbutton {
+    position: absolute;
+    font-size: 70px;
+    border-radius: 12px;
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    margin-left: 630px;
+    margin-top: 350px;
+    cursor: url("https://scontent.ftun2-2.fna.fbcdn.net/v/t1.15752-9/385464296_863143718770256_6765045009471494108_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=1M872h4CPLkAX_sr6Wz&_nc_ht=scontent.ftun2-2.fna&oh=03_AdQp1QUQhApG5v9xTS1E33m4NcHMRaAlCMnQTdEBfH3ppA&oe=6544F928"), auto;
+}
+
+#grid-container {
+    
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:transparent;
+    padding: 10px;}
+
+    #grid-item {
+        
+        background-color: transparent;
+        border: 0px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 50px;
+        text-align: center;
+      }
+
+
+
+
+  
